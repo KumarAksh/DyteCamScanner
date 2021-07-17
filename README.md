@@ -17,7 +17,10 @@ You can use the Above metioned steps or You can also just use the published vers
 1. Go to <a href="https://expo.io/@kumaraksh/dytecamscanner"> DyteCamScannerApp</a>.
 2. Open "Expo Go" on your android device and scan the QR code here.
 
-<b>Notes:</b> The App woud request for some permissions, please give it the permissions for smooth opertions. If the Scanner or Gallery funtions are not working after giving permissions, then go back to home screen and enter the Scanner or Gallery again.
+<b>Notes:</b>
+1. The App woud request for some permissions, please give it the permissions for smooth opertions. 
+2. If the Scanner or Gallery funtions are not working after giving permissions, then go back to home screen and enter the Scanner or Gallery again.
+3. When you open the Gallery from the home page it will take you to another page with words "Gallery" written on them, press the "Gallery" text as it will then open the Gallery in your phone.
 
 
 
